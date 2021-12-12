@@ -1,0 +1,609 @@
+[30-Oct-2021 14:12:59 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/home_shop_18/home_shop_18_800.m3u8?jct=w_Mxoa5-QjzSQFexRJ3Lpw&amp;pxe=1635584179&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[30-Oct-2021 14:44:13 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Lakshya_TV/Lakshya_TV_800.m3u8?jct=fFR0M7JJO-5xGrXOWHiTqg&amp;pxe=1635586053&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[30-Oct-2021 14:44:19 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Lakshya_TV/Lakshya_TV_800.m3u8?jct=kGuT3OGTi0MBQkqXaRS_Bg&amp;pxe=1635586058&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[30-Oct-2021 14:45:23 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Hamari_Sanskruti_TV/Hamari_Sanskruti_TV_800.m3u8?jct=B27z-zoNyWIgahrrjTe29w&amp;pxe=1635586122&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[30-Oct-2021 14:45:33 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Nick_Gujarati/Nick_Gujarati_800.m3u8?jct=qYUCjboB51cknz9wXMb4dQ&amp;pxe=1635586133&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[30-Oct-2021 14:45:33 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sonic_Gujarati/Sonic_Gujarati_800.m3u8?jct=qYUCjboB51cknz9wXMb4dQ&amp;pxe=1635586133&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[30-Oct-2021 14:45:44 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Nick_Gujarati/Nick_Gujarati_800.m3u8?jct=o9wg0dDPIqJj1uzvwu8DGQ&amp;pxe=1635586144&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[30-Oct-2021 14:45:58 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Nick_Gujarati/Nick_Gujarati_800.m3u8?jct=AIxR1lACbgX3QZ9DBQoTSg&amp;pxe=1635586157&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[30-Oct-2021 14:46:00 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sonic_Gujarati/Sonic_Gujarati_800.m3u8?jct=gu_qzZPiiwKjRIVAh0aDYg&amp;pxe=1635586160&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[30-Oct-2021 14:46:06 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sonic_Gujarati/Sonic_Gujarati_800.m3u8?jct=ivYrQtMqpyjF-KP5tFSdEA&amp;pxe=1635586166&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[30-Oct-2021 14:46:06 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Nick_Gujarati/Nick_Gujarati_800.m3u8?jct=ivYrQtMqpyjF-KP5tFSdEA&amp;pxe=1635586166&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[30-Oct-2021 14:46:15 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sonic_Gujarati/Sonic_Gujarati_800.m3u8?jct=fqocD08kSJhK4-my_IXigQ&amp;pxe=1635586175&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[30-Oct-2021 14:47:00 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Housefull_Movies/Housefull_Movies_800.m3u8?jct=jp9frgx_eYf2Es3xD9yAHA&amp;pxe=1635586220&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[30-Oct-2021 15:12:25 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/home_shop_18/home_shop_18_800.m3u8?jct=t28-aWz9XvE--VpmdoYt_A&amp;pxe=1635587745&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[30-Oct-2021 18:22:59 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Lakshya_TV/Lakshya_TV_800.m3u8?jct=C40xjGFW4BWMsslKP6k3aQ&amp;pxe=1635599179&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[31-Oct-2021 12:05:48 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Jhandewalan_Delhi/Jhandewalan_Delhi_800.m3u8?jct=A7xTzqTxK4MCcSUISKJuwQ&amp;pxe=1635662948&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[31-Oct-2021 16:08:59 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=-4LV2X_Hkp-V4l-CDlXoBg&amp;pxe=1635677539&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[31-Oct-2021 17:13:21 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Lakshya_TV/Lakshya_TV_800.m3u8?jct=jTZv7tyo6qU7XVoypSBLdA&amp;pxe=1635681401&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[01-Nov-2021 12:02:27 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/News_9/News_9_800.m3u8?jct=t2Sb5xCv2dy_EjtLAjnZ6Q&amp;pxe=1635749147&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[01-Nov-2021 13:54:21 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Only_Music/Only_Music_800.m3u8?jct=g8KNCXBkYaBP07umbgxWqA&amp;pxe=1635755861&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[01-Nov-2021 13:54:21 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Only_Music/Only_Music_800.m3u8?jct=g8KNCXBkYaBP07umbgxWqA&amp;pxe=1635755861&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[01-Nov-2021 13:54:22 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Only_Music/Only_Music_800.m3u8?jct=g8KNCXBkYaBP07umbgxWqA&amp;pxe=1635755861&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[01-Nov-2021 13:54:22 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Only_Music/Only_Music_800.m3u8?jct=VrINo6u0Ba4cvvFclOQ8nA&amp;pxe=1635755862&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[01-Nov-2021 14:56:37 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Lakshya_TV/Lakshya_TV_800.m3u8?jct=njxRxIPgb_gPxsP-GLodiQ&amp;pxe=1635759597&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[01-Nov-2021 19:45:42 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/AstroFlix/AstroFlix_800.m3u8?jct=2fzh9Df_CRJbXnjysykjFw&amp;pxe=1635776942&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[01-Nov-2021 21:16:39 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sony_Marathi_SD/Sony_Marathi_SD_800.m3u8?jct=YdrhA42XPxr60gWQqrIB6A&amp;pxe=1635782398&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[01-Nov-2021 22:08:48 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Lakshya_TV/Lakshya_TV_800.m3u8?jct=BZBvO-ZTbKkBj_KFk0odrg&amp;pxe=1635785528&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[02-Nov-2021 09:39:13 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/home_shop_18/home_shop_18_800.m3u8?jct=DRhkWvoRvM5D86Q7QBXO1g&amp;pxe=1635826953&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[02-Nov-2021 21:49:10 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/HNN_24x7/HNN_24x7_800.m3u8?jct=TJzGQkMChKp7_Ddf2b72bw&amp;pxe=1635870750&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[02-Nov-2021 22:14:44 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Marathi/Zee_Marathi_800.m3u8?jct=9tManHpvp7IzlPiaoHhDzA&amp;pxe=1635872284&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[02-Nov-2021 22:27:47 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Marathi/Zee_Marathi_800.m3u8?jct=DHGYmRid9YdvAS35f5TvXQ&amp;pxe=1635873067&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[02-Nov-2021 22:34:14 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sony_Marathi_SD/Sony_Marathi_SD_800.m3u8?jct=qpR3nRe58yGf7JJ-vL7bmA&amp;pxe=1635873454&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[02-Nov-2021 22:50:59 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Marathi/Zee_Marathi_800.m3u8?jct=0g1-PpO7nCEOybWWz95Egg&amp;pxe=1635874459&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Nov-2021 21:53:12 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV9_Maharashtra/TV9_Maharashtra_800.m3u8?jct=u1wOJhy2jBMQozBTaBDoSQ&amp;pxe=1635957392&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[04-Nov-2021 18:45:59 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/home_shop_18/home_shop_18_800.m3u8?jct=my1Yz6PJqeLoEgxgN3xmfw&amp;pxe=1636032559&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[04-Nov-2021 15:15:43 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiouid.txt): failed to open stream: Connection timed out in /home/prasadml/public_html/Geoo/key.php on line 8
+[04-Nov-2021 15:15:49 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: Connection timed out in /home/prasadml/public_html/Geoo/key.php on line 7
+[04-Nov-2021 15:15:55 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: Connection timed out in /home/prasadml/public_html/Geoo/key.php on line 7
+[04-Nov-2021 15:16:05 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: Connection timed out in /home/prasadml/public_html/Geoo/key.php on line 7
+[04-Nov-2021 15:16:09 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: Connection timed out in /home/prasadml/public_html/Geoo/key.php on line 7
+[04-Nov-2021 15:16:10 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: Connection timed out in /home/prasadml/public_html/Geoo/key.php on line 7
+[04-Nov-2021 15:16:13 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: Connection timed out in /home/prasadml/public_html/Geoo/key.php on line 7
+[04-Nov-2021 15:16:15 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: Connection timed out in /home/prasadml/public_html/Geoo/key.php on line 7
+[04-Nov-2021 15:16:19 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: Connection timed out in /home/prasadml/public_html/Geoo/key.php on line 7
+[04-Nov-2021 15:16:20 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: Connection timed out in /home/prasadml/public_html/Geoo/key.php on line 7
+[04-Nov-2021 15:16:22 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: Connection timed out in /home/prasadml/public_html/Geoo/key.php on line 7
+[04-Nov-2021 21:21:11 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Hamari_Sanskruti_TV/Hamari_Sanskruti_TV_800.m3u8?jct=zs0RGhClm7Zts2f7ohSXDA&amp;pxe=1636041871&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[04-Nov-2021 21:21:16 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Nick_Gujarati/Nick_Gujarati_800.m3u8?jct=rHel4WtTJE5lTiEJQRH1Eg&amp;pxe=1636041876&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[04-Nov-2021 21:21:42 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Housefull_Movies/Housefull_Movies_800.m3u8?jct=BXNIg5rteze_36uaPGFubg&amp;pxe=1636041902&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 14:31:36 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Lakshya_TV/Lakshya_TV_800.m3u8?jct=Dii5oQM9aR5L3RgkBU34Gg&amp;pxe=1636103696&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 17:11:33 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/PTC_DHOL_TV/PTC_DHOL_TV_800.m3u8?jct=N1Rh046YNM6DOx-5O3Yulg&amp;pxe=1636113293&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 17:14:51 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=N8PMbPRGM6a4GTDlsj0YUQ&amp;pxe=1636113491&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 17:15:42 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=HTQznK0sQUxa0mPMnBHtMw&amp;pxe=1636113542&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:46:27 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/PTC_DHOL_TV/PTC_DHOL_TV_800.m3u8?jct=JUWUL0jWk6mSKqMYjMQHCw&amp;pxe=1636136987&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:47:32 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Bharat_Samachar/Bharat_Samachar_800.m3u8?jct=SjrsURL-FsrhMX1W54LwOg&amp;pxe=1636137051&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:47:40 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/HNN_24x7/HNN_24x7_800.m3u8?jct=geJUfb4lMFOnz5rE0NWElQ&amp;pxe=1636137060&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:47:42 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV9_BHARATVARSH/TV9_BHARATVARSH_800.m3u8?jct=shsQ_9lE-y35cfpSXBDRLA&amp;pxe=1636137061&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:47:53 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Jhandewalan_Delhi/Jhandewalan_Delhi_800.m3u8?jct=8VeLW9wNOhD7t1i2BaOCuw&amp;pxe=1636137073&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:47:55 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=sbnTF1RJSguLyErvPUv9rA&amp;pxe=1636137075&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:48:02 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_23/Swayam_Prabha_23_800.m3u8?jct=jdB5PvQxeJ7ZKL-8tFyO_A&amp;pxe=1636137082&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:48:03 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_24/Swayam_Prabha_24_800.m3u8?jct=Ejvk1vzMuOrztevkYZcabw&amp;pxe=1636137083&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:48:03 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_25/Swayam_Prabha_25_800.m3u8?jct=Ejvk1vzMuOrztevkYZcabw&amp;pxe=1636137083&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:48:03 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_26/Swayam_Prabha_26_800.m3u8?jct=Ejvk1vzMuOrztevkYZcabw&amp;pxe=1636137083&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:48:03 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_27/Swayam_Prabha_27_800.m3u8?jct=Ejvk1vzMuOrztevkYZcabw&amp;pxe=1636137083&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:48:04 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_28/Swayam_Prabha_28_800.m3u8?jct=U0bJC52UFBXoPMulZm09kA&amp;pxe=1636137084&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:48:04 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_29/Swayam_Prabha_29_800.m3u8?jct=U0bJC52UFBXoPMulZm09kA&amp;pxe=1636137084&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:48:04 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_30/Swayam_Prabha_30_800.m3u8?jct=U0bJC52UFBXoPMulZm09kA&amp;pxe=1636137084&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:48:04 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_31/Swayam_Prabha_31_800.m3u8?jct=U0bJC52UFBXoPMulZm09kA&amp;pxe=1636137084&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:48:05 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_32/Swayam_Prabha_32_800.m3u8?jct=_DoLnQIyImPUYpPGELERpg&amp;pxe=1636137085&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:48:05 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_33/Swayam_Prabha_33_800.m3u8?jct=_DoLnQIyImPUYpPGELERpg&amp;pxe=1636137085&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:48:07 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Meluha/Meluha_800.m3u8?jct=wqKzKJDT9kCZi-IIttKG7A&amp;pxe=1636137087&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:48:08 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Mahawani_English/Mahawani_English_800.m3u8?jct=wqKzKJDT9kCZi-IIttKG7A&amp;pxe=1636137087&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:48:08 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Mahawani_10th_English/Mahawani_10th_English_800.m3u8?jct=dVbTuKxNuuR46W8tHlHfmQ&amp;pxe=1636137088&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:48:26 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Mahawani_10th_English/Mahawani_10th_English_800.m3u8?jct=pPva36V6Y7PQqEN0MRHUEg&amp;pxe=1636137105&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Nov-2021 23:49:34 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Geo_KIDS/Geo_KIDS_800.m3u8?jct=pKXUkzskwd0UEiF2lbG4OQ&amp;pxe=1636137174&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:39:05 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/AstroFlix/AstroFlix_800.m3u8?jct=QaOyRoGmqBeQA7Bld8yo4w&amp;pxe=1636140145&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:39:54 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Bhaktisagar_2/Bhaktisagar_2_800.m3u8?jct=pMugJxNzReClzIvxWBt23A&amp;pxe=1636140194&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:39:57 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Fateh_TV/Fateh_TV_800.m3u8?jct=mdE4DaR5UIFrvdGZWyzzFw&amp;pxe=1636140197&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:40:04 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/home_shop_18/home_shop_18_800.m3u8?jct=oZOm--KgHXiEcQIRbSd1QA&amp;pxe=1636140203&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:40:14 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/PTC_DHOL_TV/PTC_DHOL_TV_800.m3u8?jct=-lQt7mPi4_pLeJUarcJcSw&amp;pxe=1636140214&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:40:17 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Fateh_TV/Fateh_TV_800.m3u8?jct=LjARFkHFA1ZD3XSiuUFuuA&amp;pxe=1636140216&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:40:21 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Global_Sanjh/Global_Sanjh_800.m3u8?jct=yxHk2yNlAa42O1QekqI91Q&amp;pxe=1636140221&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:41:00 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Times_NOW/Times_NOW_800.m3u8?jct=V4l71RGfZiYc6MHX_7rItQ&amp;pxe=1636140260&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:41:07 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Times_Now_HD/Times_Now_HD_800.m3u8?jct=4WY5NLJ5U-jpJPRUsiAdVg&amp;pxe=1636140267&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:41:10 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Magic_bricks_Now/Magic_bricks_Now_800.m3u8?jct=N7A77YlaBQVjqJUjCnvDeg&amp;pxe=1636140270&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:41:13 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/News_9/News_9_800.m3u8?jct=z6GqV8PkSAOaP4zjNiR0sg&amp;pxe=1636140272&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:41:16 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/RDX_News/RDX_News_800.m3u8?jct=fWkbRgkSnesY1lI0-2nxCg&amp;pxe=1636140276&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:41:50 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Lotus_News/Lotus_News_800.m3u8?jct=p_d8RTAMZ13PdIHU7zcA7A&amp;pxe=1636140310&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:41:50 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Madhimugam_TV/Madhimugam_TV_800.m3u8?jct=p_d8RTAMZ13PdIHU7zcA7A&amp;pxe=1636140310&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:42:13 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV1/TV1_800.m3u8?jct=OZ3mtH_IZ0G2imOPPKIFjQ&amp;pxe=1636140333&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:42:13 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Mojo_TV/Mojo_TV_800.m3u8?jct=OZ3mtH_IZ0G2imOPPKIFjQ&amp;pxe=1636140333&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:42:21 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sakhi_TV/Sakhi_TV_800.m3u8?jct=lNbO2jvxzRjd20zTjnXFLg&amp;pxe=1636140341&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:42:23 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TWENTY_FOUR_NEWS/TWENTY_FOUR_NEWS_800.m3u8?jct=28PsPpLeHWjPIb26jWyBFg&amp;pxe=1636140343&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 00:42:32 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Bangla_Time/Bangla_Time_800.m3u8?jct=CAtVmmtBTetG_qkbK90Kxg&amp;pxe=1636140352&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 01:10:20 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/PTC_DHOL_TV/PTC_DHOL_TV_800.m3u8?jct=kJOeYJWVxAdTy9uZUbk9ag&amp;pxe=1636142020&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 11:57:48 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Mahawani_10th_English/Mahawani_10th_English_800.m3u8?jct=eymICbGZjTAHlR9NnsxkGw&amp;pxe=1636180868&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 11:57:52 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Mahawani_English/Mahawani_English_800.m3u8?jct=s6XZeFn4DbqabRIYldYIHw&amp;pxe=1636180872&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 12:29:55 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sony_HD/Sony_HD_800.m3u8?jct=_ZLx91Xd6BqyjYEgKJJ9LA&amp;pxe=1636182735&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 12:29:56 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Marathi/Zee_Marathi_800.m3u8?jct=qI5ICFM-_EMyX42po_fyew&amp;pxe=1636182796&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 12:30:07 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ABP_Asmita/ABP_Asmita_800.m3u8?jct=i0-2fuiREzAaWJIatCl-kQ&amp;pxe=1636182747&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 12:30:10 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ABP_Asmita/ABP_Asmita_800.m3u8?jct=lvMRFgc5U1KOksA-31igww&amp;pxe=1636182810&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 12:30:16 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Marathi/Zee_Marathi_800.m3u8?jct=Gyzh1c-9ReXPirzs_I4faw&amp;pxe=1636182756&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 15:40:23 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/AstroFlix/AstroFlix_800.m3u8?jct=1fPvQpaQrxv09b5pNZK5QA&amp;pxe=1636194223&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 15:40:54 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/home_shop_18/home_shop_18_800.m3u8?jct=kd9LxUgSdwfK4HvnzjVctQ&amp;pxe=1636194254&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[06-Nov-2021 15:42:58 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Jhandewalan_Delhi/Jhandewalan_Delhi_800.m3u8?jct=WrWEJj1FZX7_pT6HvYw-Og&amp;pxe=1636194378&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[07-Nov-2021 11:08:34 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/PTC_DHOL_TV/PTC_DHOL_TV_800.m3u8?jct=XWf5C-9xKORiOSrcMix7yA&amp;pxe=1636264314&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[07-Nov-2021 15:49:35 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Housefull_Movies/Housefull_Movies_800.m3u8?jct=d_FwKvK0QK3tx-qlR2eXBg&amp;pxe=1636281175&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[07-Nov-2021 18:48:17 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=r-mjvpJS6T4okrIeC3hQ9g&amp;pxe=1636291897&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[07-Nov-2021 18:50:12 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Meluha/Meluha_800.m3u8?jct=5A-reJ_u4pExFrqpX8kyDw&amp;pxe=1636292012&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[07-Nov-2021 18:50:13 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Mahawani_English/Mahawani_English_800.m3u8?jct=aj44FkZVj-Y_2W1aiCH_ew&amp;pxe=1636292013&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[07-Nov-2021 18:50:14 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Mahawani_10th_English/Mahawani_10th_English_800.m3u8?jct=zbWnxCgbL4guSO0sLpqHEA&amp;pxe=1636292014&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[08-Nov-2021 09:03:06 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Nick_Gujarati/Nick_Gujarati_800.m3u8?jct=dl348c3oKkelkpM-fd_oKg&amp;pxe=1636343186&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[08-Nov-2021 09:03:08 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sonic_Gujarati/Sonic_Gujarati_800.m3u8?jct=FzJue2azj2uwuycUerSDNg&amp;pxe=1636343188&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[09-Nov-2021 14:11:39 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Geo_KIDS/Geo_KIDS_800.m3u8?jct=PrjW8w6lBPJToEv0am_7BA&amp;pxe=1636448099&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[09-Nov-2021 14:12:37 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/InGoa24x7/InGoa24x7_800.m3u8?jct=9uPA_uOM9XJkxDdleZ1arA&amp;pxe=1636448157&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[09-Nov-2021 14:24:49 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Osar_Movies/Osar_Movies_800.m3u8?jct=UYQWX3Df9jKcwuLv2Z4J3w&amp;pxe=1636448889&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[09-Nov-2021 14:25:06 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Osar_Movies/Osar_Movies_800.m3u8?jct=t1aF7C40TrfXyqixGVHqTw&amp;pxe=1636448906&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[09-Nov-2021 14:28:40 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Osar_Movies/Osar_Movies_800.m3u8?jct=np2g0ml2A0j-ayJs94l9JA&amp;pxe=1636449120&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[09-Nov-2021 19:02:57 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_24/Swayam_Prabha_24_800.m3u8?jct=mphoRVircbz2m8e3Bj98gA&amp;pxe=1636465577&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[09-Nov-2021 19:03:03 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_24/Swayam_Prabha_24_800.m3u8?jct=50S9uJxsJzmwGrGHRW_YeA&amp;pxe=1636465583&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[09-Nov-2021 19:46:55 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Nick_Gujarati/Nick_Gujarati_800.m3u8?jct=0PIpa03KjRrikFMUZlVcxw&amp;pxe=1636468215&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[09-Nov-2021 19:47:03 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sonic_Gujarati/Sonic_Gujarati_800.m3u8?jct=OStZ3bwtGZ4ChFGkXSuqig&amp;pxe=1636468223&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[09-Nov-2021 19:49:18 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Housefull_Movies/Housefull_Movies_800.m3u8?jct=3Sc_gMyZokt25x9YJ-E22Q&amp;pxe=1636468358&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[09-Nov-2021 20:04:12 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV_Bangla/TV_Bangla_800.m3u8?jct=QIXs3FmR1tFPNc1KcU1FUQ&amp;pxe=1636469252&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[09-Nov-2021 20:06:32 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/InGoa24x7/InGoa24x7_800.m3u8?jct=QE7kOFFck48dTc6e610nHQ&amp;pxe=1636469392&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[09-Nov-2021 20:39:11 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=Uwr8tI_Ko6Htp4lDMUUltg&amp;pxe=1636471351&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[09-Nov-2021 21:19:35 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/AstroFlix/AstroFlix_800.m3u8?jct=EkXYqA4l_CKSDYIqzJVopw&amp;pxe=1636473775&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[09-Nov-2021 21:19:39 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/StarTell/StarTell_800.m3u8?jct=TCHLlIHVvhXrkXqSOiif-w&amp;pxe=1636473779&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[10-Nov-2021 09:06:31 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_26/Swayam_Prabha_26_800.m3u8?jct=20xnOTUqQzPk5YQbXhLfCQ&amp;pxe=1636516191&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[10-Nov-2021 09:06:35 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_27/Swayam_Prabha_27_800.m3u8?jct=dCBLzJYIDY87K_luGLIVUQ&amp;pxe=1636516195&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[10-Nov-2021 09:06:39 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_26/Swayam_Prabha_26_800.m3u8?jct=oZprTpDby5UOyWGl9x-MQw&amp;pxe=1636516199&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[10-Nov-2021 09:06:40 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_25/Swayam_Prabha_25_800.m3u8?jct=oZprTpDby5UOyWGl9x-MQw&amp;pxe=1636516199&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[10-Nov-2021 09:06:40 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_24/Swayam_Prabha_24_800.m3u8?jct=XNiXE2KDU07g5TvIW1Ub_Q&amp;pxe=1636516200&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[10-Nov-2021 09:06:43 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_23/Swayam_Prabha_23_800.m3u8?jct=ULml7Bo-0nlasLl3r-Cb-A&amp;pxe=1636516203&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[10-Nov-2021 12:07:36 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=Nmo1j3iMqI8_SgU8lhGxPw&amp;pxe=1636527056&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[11-Nov-2021 00:09:26 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Osar_Movies/Osar_Movies_800.m3u8?jct=vRDSHX-zSWFek_tV-EwGAw&amp;pxe=1636570366&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[11-Nov-2021 09:01:42 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV9_BHARATVARSH/TV9_BHARATVARSH_800.m3u8?jct=flJvJX3ZvRaJl8ve_hIt5Q&amp;pxe=1636602301&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[11-Nov-2021 11:52:16 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_30/Swayam_Prabha_30_800.m3u8?jct=KT1hvR61oXJsAEuUILWi1w&amp;pxe=1636612536&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[11-Nov-2021 12:01:46 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=s9Wgfyo5fKwYBajm-NQYcg&amp;pxe=1636613106&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[11-Nov-2021 21:04:30 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Nick_Gujarati/Nick_Gujarati_800.m3u8?jct=0Yf1126KT4kccjXuMr9V3w&amp;pxe=1636645670&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[11-Nov-2021 21:16:15 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/AstroFlix/AstroFlix_800.m3u8?jct=77ZDbqJtzSrdWCu5EeSJNg&amp;pxe=1636646375&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[11-Nov-2021 21:16:36 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/AstroFlix/AstroFlix_800.m3u8?jct=CDcCxLL6vOXAoOnV5JuEkA&amp;pxe=1636646396&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[11-Nov-2021 21:24:10 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/AstroFlix/AstroFlix_800.m3u8?jct=cgir6VBfJMLundKNN2H4-A&amp;pxe=1636646850&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[11-Nov-2021 21:30:56 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/PTC_DHOL_TV/PTC_DHOL_TV_800.m3u8?jct=DzndZOq7KqqX6fVGgJocAw&amp;pxe=1636647256&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[11-Nov-2021 23:06:35 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=QdqiXyU0B7B_RyCBUowWsw&amp;pxe=1636652995&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 06:08:59 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Nick_Hindi/Nick_Hindi_800.m3u8?jct=GvziFASLH14NO5Faodlbdw&amp;pxe=1636678339&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 09:16:48 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Housefull_Movies/Housefull_Movies_800.m3u8?jct=vQF6Chls6qyo4_qXCGiFUA&amp;pxe=1636689608&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 12:03:57 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Mahawani_English/Mahawani_English_800.m3u8?jct=1WWcLYs60aMCSgrTV6yUwA&amp;pxe=1636699637&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 12:04:01 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Mahawani_10th_English/Mahawani_10th_English_800.m3u8?jct=bu__gaG2G8A1kPeZdiNzrQ&amp;pxe=1636699641&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 12:18:55 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=-RdkIoRzvXzaUvzlsbcz6g&amp;pxe=1636700535&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 13:44:27 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=BpZQwe5FUuea5qGlyOuSZg&amp;pxe=1636705666&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 13:45:13 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_33/Swayam_Prabha_33_800.m3u8?jct=2JBDuq1dkBiGPC38YtpITw&amp;pxe=1636705713&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 13:45:16 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_32/Swayam_Prabha_32_800.m3u8?jct=FNJF5iylk_S6Iq5N4DRtMg&amp;pxe=1636705716&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 13:45:17 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_31/Swayam_Prabha_31_800.m3u8?jct=KRGrzfhU4wco0PVOS6btcQ&amp;pxe=1636705717&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 13:45:19 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_30/Swayam_Prabha_30_800.m3u8?jct=6Vc6zdl7hk05-2QOge8ZzA&amp;pxe=1636705719&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 13:45:20 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_29/Swayam_Prabha_29_800.m3u8?jct=lACPTXdkZaQMTPTag0cx9g&amp;pxe=1636705720&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 13:45:22 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_28/Swayam_Prabha_28_800.m3u8?jct=LIkPJE8bXmVhvZZdGXSohw&amp;pxe=1636705721&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 13:45:23 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_27/Swayam_Prabha_27_800.m3u8?jct=_bDeFkMXsUVxGiw3tFpJuA&amp;pxe=1636705723&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 13:45:26 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_26/Swayam_Prabha_26_800.m3u8?jct=HKwt0PoH7ai6I0Mqe2Qodw&amp;pxe=1636705725&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 13:45:26 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_25/Swayam_Prabha_25_800.m3u8?jct=07llPFSLwEEdVCup9a38TA&amp;pxe=1636705726&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 13:45:27 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_24/Swayam_Prabha_24_800.m3u8?jct=H0Fs9K-LPNlfrY5LXJEyWA&amp;pxe=1636705727&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 13:45:28 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_23/Swayam_Prabha_23_800.m3u8?jct=pyRlN7lj6Jo8RGRird2bEg&amp;pxe=1636705728&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 13:56:50 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Geo_KIDS/Geo_KIDS_800.m3u8?jct=ef0PfPTCgtb9NYYdbXFv6A&amp;pxe=1636706410&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 14:15:14 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ABP_Majha/ABP_Majha_800.m3u8?jct=jRnCfHpFA6ZSKlK_3cdynQ&amp;pxe=1636707454&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 14:15:14 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Fakt_Marathi/Fakt_Marathi_800.m3u8?jct=zNIdJoWulONKT9t039b9bw&amp;pxe=1636707514&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 14:15:15 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Fakt_Marathi/Fakt_Marathi_800.m3u8?jct=zqshR7JSwDpABCrryEtjKQ&amp;pxe=1636707455&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 14:15:16 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/CNBC_Awaaz/CNBC_Awaaz_800.m3u8?jct=qvgAgHKnpGegWigEi51MQA&amp;pxe=1636707456&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 14:15:16 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sony_Marathi_SD/Sony_Marathi_SD_800.m3u8?jct=RLHyyYkphiKL-ixGDiIHEQ&amp;pxe=1636707516&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 14:15:18 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_800.m3u8?jct=Wl1yKxnJqroAlLrdj-jcVw&amp;pxe=1636707458&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 14:15:18 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sony_Marathi_SD/Sony_Marathi_SD_800.m3u8?jct=Wl1yKxnJqroAlLrdj-jcVw&amp;pxe=1636707458&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 14:15:18 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Marathi/Zee_Marathi_800.m3u8?jct=Wl1yKxnJqroAlLrdj-jcVw&amp;pxe=1636707458&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 14:15:18 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sony_Marathi_SD/Sony_Marathi_SD_800.m3u8?jct=NtDZCamLcGsXaOFHO2ESlw&amp;pxe=1636707518&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 14:15:19 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Marathi/Zee_Marathi_800.m3u8?jct=q3-JvNOWnHXFfrG-bzHjVQ&amp;pxe=1636707519&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 14:15:20 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Marathi/Zee_Marathi_800.m3u8?jct=qJHe_O4lNxP0NGACKicWsQ&amp;pxe=1636707520&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 14:15:22 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Colors_Marathi_HD/Colors_Marathi_HD_800.m3u8?jct=DdpLzbq2pea7D58c8PFMFQ&amp;pxe=1636707522&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 14:15:23 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_800.m3u8?jct=OvT9G2ANW051XJ4M2RU_vw&amp;pxe=1636707523&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 14:15:24 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_800.m3u8?jct=eGEu5n8ZbYr8p03a54uIzg&amp;pxe=1636707524&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 15:12:03 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=S09MmztiTVsCfkbY4zZdJQ&amp;pxe=1636710923&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 16:20:36 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Osar_Movies/Osar_Movies_800.m3u8?jct=tb5wzNdgD4gc1ETvvi_4Rg&amp;pxe=1636715036&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 18:13:00 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Bharat_Samachar/Bharat_Samachar_800.m3u8?jct=dK7g9G4qlbnMylJaR30PnA&amp;pxe=1636721780&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 18:14:41 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/HNN_24x7/HNN_24x7_800.m3u8?jct=QYURzF9oWu6N2w9Wk43M3w&amp;pxe=1636721881&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 18:14:50 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV9_BHARATVARSH/TV9_BHARATVARSH_800.m3u8?jct=d9fa31JfUzwAGoONywCDdw&amp;pxe=1636721890&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 18:15:27 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ET_Now/ET_Now_800.m3u8?jct=HRkLsDZSCROq2VKfO-g7uw&amp;pxe=1636721927&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 18:15:29 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Times_NOW/Times_NOW_800.m3u8?jct=gCGkT4n1C79A6xa5CzVqBQ&amp;pxe=1636721929&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 18:15:40 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Times_Now_HD/Times_Now_HD_800.m3u8?jct=jAAaoAg597TAGUGPlJcztw&amp;pxe=1636721940&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 18:16:36 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/PTC_DHOL_TV/PTC_DHOL_TV_800.m3u8?jct=U4WJDp-8HKSjlu3em3BTyA&amp;pxe=1636721996&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 18:17:25 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV9_BHARATVARSH/TV9_BHARATVARSH_800.m3u8?jct=U4dH9xFOoQSM98bP6HfIfQ&amp;pxe=1636722045&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 18:22:58 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/HNN_24x7/HNN_24x7_800.m3u8?jct=fm-GvIrJ8Yhi7ERV647fqQ&amp;pxe=1636722377&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 18:30:04 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV9_BHARATVARSH/TV9_BHARATVARSH_800.m3u8?jct=fxDGTFubumZn4o4U41KHLg&amp;pxe=1636722803&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 18:30:37 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ET_Now/ET_Now_800.m3u8?jct=H9eetfxzwNwxrWIXYqgkwg&amp;pxe=1636722837&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 18:35:01 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Jhandewalan_Delhi/Jhandewalan_Delhi_800.m3u8?jct=vVvDeUdJMpoCrxddVVa8EQ&amp;pxe=1636723101&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 18:36:06 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=MbaKkqJWdathrxKp6IFOEA&amp;pxe=1636723166&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 18:37:02 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV9_BHARATVARSH/TV9_BHARATVARSH_800.m3u8?jct=Lxk8KheJVheeszPp1jCB7Q&amp;pxe=1636723222&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 19:15:10 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Housefull_Movies/Housefull_Movies_800.m3u8?jct=4El2Zh2mwqiBEBbmvyeoAQ&amp;pxe=1636725509&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 20:16:43 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=yQvWIbnBP_mn04swEaMMng&amp;pxe=1636729202&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 15:28:40 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: Connection timed out in /home/prasadml/public_html/Geoo/key.php on line 7
+[12-Nov-2021 22:13:13 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/PTC_DHOL_TV/PTC_DHOL_TV_800.m3u8?jct=pi879g1jxM2g52szQveXwg&amp;pxe=1636736192&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 22:21:52 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Lotus_News/Lotus_News_800.m3u8?jct=rpaLgL2y_l94n79e99SChQ&amp;pxe=1636736712&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 22:21:52 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Madhimugam_TV/Madhimugam_TV_800.m3u8?jct=rpaLgL2y_l94n79e99SChQ&amp;pxe=1636736712&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 22:22:10 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV1/TV1_800.m3u8?jct=OZiyaA1URfdHmq09tpj1QQ&amp;pxe=1636736730&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 22:22:11 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Mojo_TV/Mojo_TV_800.m3u8?jct=hY_1M2STTc-b_lzP2PCkTA&amp;pxe=1636736731&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 22:24:02 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TEHZEEB_TV/TEHZEEB_TV_800.m3u8?jct=hIsB720WZFmMuE_GVdwNfA&amp;pxe=1636736842&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 22:38:06 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Geo_KIDS/Geo_KIDS_800.m3u8?jct=CgPJI2k8F3wcXf2P8EcHCQ&amp;pxe=1636737686&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[12-Nov-2021 22:40:30 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Geo_KIDS/Geo_KIDS_800.m3u8?jct=jSNYmW8zsUhp4QlrBtmueg&amp;pxe=1636737830&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[13-Nov-2021 03:35:04 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/9XM/9XM_800.m3u8?jct=QlfK1_ZT16eauXOR6iNQVg&amp;pxe=1636755444&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[13-Nov-2021 03:35:04 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ABP_Majha/ABP_Majha_800.m3u8?jct=QlfK1_ZT16eauXOR6iNQVg&amp;pxe=1636755444&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[13-Nov-2021 04:33:27 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/9XM/9XM_800.m3u8?jct=mXn--KPTs1QxC7hGO25TFw&amp;pxe=1636759007&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[13-Nov-2021 11:40:32 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=2jH7roHLoH9JLLn69E_T-A&amp;pxe=1636784631&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[13-Nov-2021 11:42:19 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=xhuGmocmnkfsYUskdWW6Nw&amp;pxe=1636784739&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[13-Nov-2021 12:53:58 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/home_shop_18/home_shop_18_800.m3u8?jct=QS-FK3MLnmkrf7wBrSjR1w&amp;pxe=1636789037&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[13-Nov-2021 16:31:37 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Millionlights/Millionlights_800.m3u8?jct=iAv0s10cDcCbvpZTQpIsYA&amp;pxe=1636802097&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[13-Nov-2021 18:18:42 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Housefull_Movies/Housefull_Movies_800.m3u8?jct=fBkWlbxTWVNaeD5eQewowA&amp;pxe=1636808522&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[13-Nov-2021 18:20:41 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Nick_Gujarati/Nick_Gujarati_800.m3u8?jct=K7GVBUHjI9ifVXMPQQdgoQ&amp;pxe=1636808641&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[13-Nov-2021 18:23:01 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Mojo_TV/Mojo_TV_800.m3u8?jct=x0cJ5DAPtKpKAvvcFFP8GA&amp;pxe=1636808781&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[14-Nov-2021 09:02:36 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ABP_Majha/ABP_Majha_800.m3u8?jct=9y8fGB3CCiLVJz43DF1QaA&amp;pxe=1636861556&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[14-Nov-2021 09:02:45 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ABP_Majha/ABP_Majha_800.m3u8?jct=ffDQ-5kwzccjGtGczwKCDA&amp;pxe=1636861505&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[14-Nov-2021 09:02:52 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ABP_Majha/ABP_Majha_800.m3u8?jct=jx7OLnBY8cEEMLX4lHXcGg&amp;pxe=1636861512&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[14-Nov-2021 09:02:53 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV9_Maharashtra/TV9_Maharashtra_800.m3u8?jct=LeZKgtDzhWwUEQKUn3Tkyw&amp;pxe=1636861513&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[14-Nov-2021 09:03:17 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV9_Maharashtra/TV9_Maharashtra_800.m3u8?jct=8L8A2eTOXsYdGgJUWVdZFw&amp;pxe=1636861537&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[14-Nov-2021 09:03:18 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_24_Taas/Zee_24_Taas_800.m3u8?jct=UOUr8dmjLrs88t3VBMAFiA&amp;pxe=1636861538&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[14-Nov-2021 09:03:18 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_24_Taas/Zee_24_Taas_800.m3u8?jct=UOUr8dmjLrs88t3VBMAFiA&amp;pxe=1636861538&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[14-Nov-2021 09:05:18 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV9_Maharashtra/TV9_Maharashtra_800.m3u8?jct=TtX6LIpoFT9KIo_bDsHgyg&amp;pxe=1636861658&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! in /home/prasadml/public_html/Geoo/play.php on line 64
+[14-Nov-2021 05:20:24 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: Connection timed out in /home/prasadml/public_html/Geoo/key.php on line 7
+[14-Nov-2021 05:38:41 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 7
+[14-Nov-2021 05:38:42 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiouid.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 8
+[14-Nov-2021 05:38:42 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiocrm.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 9
+[14-Nov-2021 05:38:48 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 7
+[14-Nov-2021 05:38:49 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiouid.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 8
+[14-Nov-2021 05:38:49 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 7
+[14-Nov-2021 05:38:49 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiocrm.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 9
+[14-Nov-2021 05:38:49 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiouid.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 8
+[14-Nov-2021 05:38:49 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 7
+[14-Nov-2021 05:38:49 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiocrm.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 9
+[14-Nov-2021 05:38:49 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiouid.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 8
+[14-Nov-2021 05:38:50 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiocrm.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 9
+[14-Nov-2021 05:39:06 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 7
+[14-Nov-2021 05:39:06 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiouid.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 8
+[14-Nov-2021 05:39:07 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 7
+[14-Nov-2021 05:39:07 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiocrm.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 9
+[14-Nov-2021 05:39:07 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiouid.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 8
+[14-Nov-2021 05:39:07 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiocrm.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 9
+[14-Nov-2021 05:39:08 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 7
+[14-Nov-2021 05:39:08 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiouid.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 8
+[14-Nov-2021 05:39:09 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiocrm.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 9
+[14-Nov-2021 05:39:18 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 7
+[14-Nov-2021 05:39:18 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiouid.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 8
+[14-Nov-2021 05:39:18 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiocrm.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 9
+[14-Nov-2021 05:39:30 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 7
+[14-Nov-2021 05:39:30 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiouid.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 8
+[14-Nov-2021 05:39:30 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiocrm.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 9
+[14-Nov-2021 05:39:34 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 7
+[14-Nov-2021 05:39:34 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiouid.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 8
+[14-Nov-2021 05:39:34 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiocrm.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 9
+[14-Nov-2021 05:39:51 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 7
+[14-Nov-2021 05:39:51 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiouid.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 8
+[14-Nov-2021 05:39:51 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiocrm.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 9
+[14-Nov-2021 05:39:54 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiotok.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 7
+[14-Nov-2021 05:39:54 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiouid.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 8
+[14-Nov-2021 05:39:55 UTC] PHP Warning:  file_get_contents(https://prasadtv.xyz/jio/jiocrm.txt): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/prasadml/public_html/Geoo/key.php on line 9
+[22-Nov-2021 21:03:05 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Marathi/Zee_Marathi_800.m3u8?jct=QY7AMLTDXFWg6DPquFHpFg&amp;pxe=1637595985&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[22-Nov-2021 21:37:03 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_24_Taas/Zee_24_Taas_800.m3u8?jct=kmB6_Y7KfrYi18ZfHifWzw&amp;pxe=1637598023&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[22-Nov-2021 21:39:21 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_24_Taas/Zee_24_Taas_800.m3u8?jct=-GHv_V5EUQsy98EqByqKpg&amp;pxe=1637598161&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[22-Nov-2021 21:52:22 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Lakshya_TV/Lakshya_TV_800.m3u8?jct=zWSMVmuY1AzCy7v9spRktA&amp;pxe=1637598942&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[22-Nov-2021 22:03:04 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Kartavya_Tv/Kartavya_Tv_800.m3u8?jct=5DMGuRglmdw7mlNRetY_zg&amp;pxe=1637599584&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[22-Nov-2021 22:09:38 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Fakt_Marathi/Fakt_Marathi_800.m3u8?jct=KvI57whRTXa4Mjt-stWzHg&amp;pxe=1637599978&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[22-Nov-2021 22:15:06 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=KA3UVcAB0fr9ltNM8iQ7EQ&amp;pxe=1637600306&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[22-Nov-2021 22:31:42 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=D1-Z4zp062JM16BLdyHFdg&amp;pxe=1637601302&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[22-Nov-2021 22:52:44 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=ydwqYrXYsT4ZscWHSMMosw&amp;pxe=1637602564&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[22-Nov-2021 22:54:04 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=x7EHUJjgPcmB7JexEy_bZA&amp;pxe=1637602644&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[23-Nov-2021 00:34:25 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Magic_bricks_Now/Magic_bricks_Now_800.m3u8?jct=mzwCe8jrUotIasLfY9MtXA&amp;pxe=1637608664&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[23-Nov-2021 00:34:35 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_33/Swayam_Prabha_33_800.m3u8?jct=EwamDiW42NLR3yrFzJqgrA&amp;pxe=1637608675&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[23-Nov-2021 00:34:35 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_32/Swayam_Prabha_32_800.m3u8?jct=EwamDiW42NLR3yrFzJqgrA&amp;pxe=1637608675&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[23-Nov-2021 00:34:36 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_31/Swayam_Prabha_31_800.m3u8?jct=AxKpgM1A_th5qG02M_F00w&amp;pxe=1637608676&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[23-Nov-2021 00:34:36 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_29/Swayam_Prabha_29_800.m3u8?jct=AxKpgM1A_th5qG02M_F00w&amp;pxe=1637608676&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[23-Nov-2021 00:34:37 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_28/Swayam_Prabha_28_800.m3u8?jct=AxKpgM1A_th5qG02M_F00w&amp;pxe=1637608676&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[23-Nov-2021 00:34:37 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_27/Swayam_Prabha_27_800.m3u8?jct=ybfVxSsCTASuW3dUAa1P7w&amp;pxe=1637608677&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[23-Nov-2021 00:34:37 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_26/Swayam_Prabha_26_800.m3u8?jct=ybfVxSsCTASuW3dUAa1P7w&amp;pxe=1637608677&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[23-Nov-2021 00:34:37 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_25/Swayam_Prabha_25_800.m3u8?jct=ybfVxSsCTASuW3dUAa1P7w&amp;pxe=1637608677&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[23-Nov-2021 00:34:38 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_24/Swayam_Prabha_24_800.m3u8?jct=TFj7Hgffqwtxe0B6LeSOrA&amp;pxe=1637608678&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[23-Nov-2021 00:34:38 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_23/Swayam_Prabha_23_800.m3u8?jct=TFj7Hgffqwtxe0B6LeSOrA&amp;pxe=1637608678&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[23-Nov-2021 00:35:09 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Swayam_Prabha_23/Swayam_Prabha_23_800.m3u8?jct=dQoLJ8ooFmWFedbrqi52IA&amp;pxe=1637608709&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[23-Nov-2021 21:36:34 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV9_Maharashtra/TV9_Maharashtra_800.m3u8?jct=DDwBNqXvJKhsvPgZqr1I4A&amp;pxe=1637684394&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[23-Nov-2021 21:45:30 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sony_Marathi_SD/Sony_Marathi_SD_800.m3u8?jct=zyx6ncGH2YW2kJfLJGWqOg&amp;pxe=1637684930&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[23-Nov-2021 22:12:12 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sony_Marathi_SD/Sony_Marathi_SD_800.m3u8?jct=UfmmMtENCazDF52D0lOALA&amp;pxe=1637686532&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[23-Nov-2021 22:14:43 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sony_HD/Sony_HD_800.m3u8?jct=oWHrIQYp94enayNVKxHN0g&amp;pxe=1637686682&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[24-Nov-2021 15:55:51 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TWENTY_FOUR_NEWS/TWENTY_FOUR_NEWS_800.m3u8?jct=MfZ0nrWd6PhA08IcNTGWBA&amp;pxe=1637750351&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[01-Dec-2021 13:25:18 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV9_BHARATVARSH/TV9_BHARATVARSH_800.m3u8?jct=111mtviLu9mjGgHwBqldGA&amp;pxe=1638346118&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[01-Dec-2021 13:25:19 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV9_BHARATVARSH/TV9_BHARATVARSH_800.m3u8?jct=-r92-YcIC4nzyE2-QrEEdA&amp;pxe=1638346119&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[01-Dec-2021 13:25:19 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV9_BHARATVARSH/TV9_BHARATVARSH_800.m3u8?jct=-r92-YcIC4nzyE2-QrEEdA&amp;pxe=1638346119&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[01-Dec-2021 13:25:19 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/TV9_BHARATVARSH/TV9_BHARATVARSH_800.m3u8?jct=-r92-YcIC4nzyE2-QrEEdA&amp;pxe=1638346119&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[01-Dec-2021 20:48:41 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Geo_KIDS/Geo_KIDS_800.m3u8?jct=juk5rt6O9VkWFmjVm_9umQ&amp;pxe=1638372721&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[01-Dec-2021 20:48:53 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/M_lead/M_lead_800.m3u8?jct=j4LFfWt-BGrTLNXRz8p0Dw&amp;pxe=1638372733&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[01-Dec-2021 21:39:02 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ABZY_Movies/ABZY_Movies_800.m3u8?jct=g_Z0pAkhswbk4AO5OQUhuw&amp;pxe=1638375742&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[02-Dec-2021 08:39:46 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Live_Today/Live_Today_800.m3u8?jct=Cce5VVfvMH67_09kFrqtxw&amp;pxe=1638415386&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 19:06:03 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=NX-6jWoGAreSQxFC8ErIcg&amp;pxe=1638539363&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 19:06:04 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=5nkyPqm9TmCXeydcRVXkNA&amp;pxe=1638539364&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 19:06:04 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=5nkyPqm9TmCXeydcRVXkNA&amp;pxe=1638539364&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 19:06:04 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=5nkyPqm9TmCXeydcRVXkNA&amp;pxe=1638539364&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 19:06:23 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=0hA0OFuRfPDtFyVqegcDfg&amp;pxe=1638539383&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 19:06:27 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=J_Mv5epD4vcOwUCwO3zq6g&amp;pxe=1638539387&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 19:06:30 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=Laq6-8PIMZ60ChF3nefZVw&amp;pxe=1638539390&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 19:06:34 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=fBZgqc3Pk5M6HAZnmjjz4g&amp;pxe=1638539394&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 19:06:50 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=G35SLx2cOU2C2cb_D9bo3g&amp;pxe=1638539410&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 19:06:53 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=yghZpnhMAzfhP4_XZ1NtmQ&amp;pxe=1638539413&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 19:06:57 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=vUVQUUnBHRjodxxoFqFT5A&amp;pxe=1638539417&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 19:06:58 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=KQ3ktoc1mtbkyp6pHrGFoQ&amp;pxe=1638539418&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 19:07:15 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=23zEu1TK14EebqUEHW0hfA&amp;pxe=1638539435&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 19:07:15 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=23zEu1TK14EebqUEHW0hfA&amp;pxe=1638539435&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 19:07:19 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=0JPLF7VfC_n5a22md_1FWw&amp;pxe=1638539439&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 19:07:22 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=JVixealJKkzUnHBcjhMJkg&amp;pxe=1638539442&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[03-Dec-2021 22:01:44 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sugran/Sugran_800.m3u8?jct=cG2JmAWYg2mVbAuXpZi60A&amp;pxe=1638549904&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:40:06 Asia/Kolkata] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:40:06 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Sony_Marathi_SD/Sony_Marathi_SD_800.m3u8?jct=loBaBE2SSrNBK92poWaEsQ&amp;pxe=1638728606&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:40:06 Asia/Kolkata] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:40:06 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_800.m3u8?jct=loBaBE2SSrNBK92poWaEsQ&amp;pxe=1638728606&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:40:36 Asia/Kolkata] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:40:36 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_800.m3u8?jct=geYrmJ0MIMlScKzD0G78TQ&amp;pxe=1638728636&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:40:36 Asia/Kolkata] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:40:36 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_800.m3u8?jct=geYrmJ0MIMlScKzD0G78TQ&amp;pxe=1638728636&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:40:36 Asia/Kolkata] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:40:36 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_800.m3u8?jct=geYrmJ0MIMlScKzD0G78TQ&amp;pxe=1638728636&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:40:54 Asia/Kolkata] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:40:54 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Fakt_Marathi/Fakt_Marathi_800.m3u8?jct=EaCZ8ekuGhBfRpnG4x1SWA&amp;pxe=1638728654&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:40:54 Asia/Kolkata] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:40:54 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Fakt_Marathi/Fakt_Marathi_800.m3u8?jct=EaCZ8ekuGhBfRpnG4x1SWA&amp;pxe=1638728654&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:40:57 Asia/Kolkata] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:40:57 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Fakt_Marathi/Fakt_Marathi_800.m3u8?jct=mWg0WMb1KwSJ1x-aP1_9Yg&amp;pxe=1638728657&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:41:01 Asia/Kolkata] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
+[05-Dec-2021 23:41:01 Asia/Kolkata] PHP Warning:  file_get_contents(https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Fakt_Marathi/Fakt_Marathi_800.m3u8?jct=OoWJtIuvE2nDZbwy31ZSpA&amp;pxe=1638728661&amp;st=risfylFZSeXVT7IrjtlVdQ): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/prasadml/public_html/Geoo/play.php on line 64
